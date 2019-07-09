@@ -1,0 +1,2 @@
+# beer-admin
+admin page
